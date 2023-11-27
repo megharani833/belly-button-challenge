@@ -11,6 +11,7 @@ d3.json("https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1
     console.log(data);
     
 **Step 2**
+
 Create a horizontal bar chart with a dropdown menu
 Display the top 10 OTUs found in that individual.
 
