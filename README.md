@@ -37,4 +37,4 @@ Use otu_labels for the text values.
 **Step 4**
 Display the individual's demographic information
 Display each key-value pair from the metadata JSON object somewhere on the page.
-Bubble Chart
+
